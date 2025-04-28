@@ -1,0 +1,6 @@
+#users > .user-6 {
+  color: red;
+  &:hover {
+    cursor: grab;
+  }
+}
